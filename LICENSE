@@ -1,22 +1,28 @@
-BSD 3-Clause Commercial License for Game-Bot
+CUSTOM BSD 3-Clause Commercial License for Game-Bot
+
+This is a custom-made license specifically for the Game-Bot project.
+It is not a standard GitHub or OSI-approved license. Users must follow
+all terms outlined below.
 
 Copyright (c) 2025, thompog
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
-modification, are strictly prohibited. Any redistribution, use, or
-commercial deployment must be in compliance with this license.
+modification, are strictly prohibited, except for the README.txt file.
+Any redistribution, use, or commercial deployment must be in compliance with this license.
 
 Permitted Uses:
 1. Commercial use is allowed under this license.
 2. Private, non-public usage is allowed.
 3. Distribution is allowed only in unmodified form with this license included.
+4. Users MAY freely open, read, and modify the README.txt file for personal or internal purposes.
 
 Restrictions:
-1. Users MAY NOT modify, edit, adapt, reverse engineer, decompile, or create derivative works of this software or any of its components.
-2. Users MAY NOT remove, obscure, or alter any copyright notices, license files, or documentation.
-3. Users MAY NOT distribute modified versions, translated versions, or derivative works of this software.
-4. Use in any manner that violates applicable law is prohibited.
+1. Users MAY NOT modify, edit, adapt, reverse engineer, decompile, or create derivative works of any files other than README.txt.
+2. Users MAY NOT remove, obscure, or alter any copyright notices, license files, or documentation other than README.txt.
+3. Users MAY NOT distribute modified versions, translated versions, or derivative works of any files other than README.txt.
+4. Users MAY NOT bypass the password or lock/reset system.
+5. Use in any manner that violates applicable law is prohibited.
 
 Warranty:
 1. This software is provided “as-is” with a limited warranty:
@@ -34,4 +40,5 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 By using this software, you acknowledge and agree to these terms, including
-that modification of any part of the software is strictly forbidden.
+that modification of any part of the software, except README.txt, is strictly forbidden.
+The program may temporarily disable itself if incorrect passwords are entered.
