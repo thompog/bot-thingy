@@ -15,3 +15,4 @@ IF %ERRORLEVEL% NEQ 0 (
 python -m pip install --upgrade pip >> "%LOGFILE%" 2>&1
 python "%~dp0full_checker.py" >> "%LOGFILE%" 2>&1
 python "%~dp0gamebot_main.py" >> "%LOGFILE%" 2>&1
+exit /b 0
