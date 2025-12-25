@@ -3,9 +3,10 @@
 this is just a bot and some checks please read the README.txt file in the folder you downloaded or if you want to know more now goto "README.txt" BTW please read the licene and make sure you know what you can do witch the program!
 
 
-![⚠️ Use at Your Own Risk](https://img.shields.io/badge/⚠️-Use_at_Your_Own_Risk-red?style=flat&logo=warning)  
 
 # ⚠️ Bot-Thingy
+
+![⚠️ Use at Your Own Risk](https://img.shields.io/badge/⚠️-Use_at_Your_Own_Risk-red?style=flat&logo=warning)  
 
 **Disclaimer & License**
 
