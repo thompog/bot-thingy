@@ -1,44 +1,117 @@
-CUSTOM BSD 3-Clause Commercial License for Game-Bot
+BOT-THINGY SOFTWARE LICENSE & TERMS OF SERVICE
 
-This is a custom-made license specifically for the Game-Bot project.
-It is not a standard GitHub or OSI-approved license. Users must follow
-all terms outlined below.
+Last updated: 2025-12-25
+Applies to: bot-thingy, Game-Bot, and all related files
 
-Copyright (c) 2025, thompog
-All rights reserved.
+1. Definitions
 
-Redistribution and use in source and binary forms, with or without
-modification, are strictly prohibited, except for the README.txt file.
-Any redistribution, use, or commercial deployment must be in compliance with this license.
+“Software” refers to bot-thingy, including all files, installers, scripts, and documentation.
 
-Permitted Uses:
-1. Commercial use is allowed under this license.
-2. Private, non-public usage is allowed.
-3. Distribution is allowed only in unmodified form with this license included.
-4. Users MAY freely open, read, and modify the README.txt file for personal or internal purposes.
+“Author” refers to the creator and copyright holder of the Software.
 
-Restrictions:
-1. Users MAY NOT modify, edit, adapt, reverse engineer, decompile, or create derivative works of any files other than README.txt.
-2. Users MAY NOT remove, obscure, or alter any copyright notices, license files, or documentation other than README.txt.
-3. Users MAY NOT distribute modified versions, translated versions, or derivative works of any files other than README.txt.
-4. Users MAY NOT bypass the password or lock/reset system.
-5. Use in any manner that violates applicable law is prohibited.
+“User” refers to any individual or entity that installs, uses, or distributes the Software.
 
-Warranty:
-1. This software is provided “as-is” with a limited warranty:
-   The author warrants that the software will perform substantially as described
-   for a period of 90 days from the date of purchase or acquisition.
-2. Any defects reported within the warranty period will be addressed at the author's discretion.
+2. License Grant
 
-Limitation of Liability:
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY
-DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
-ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+The Author grants the User a limited, non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes only, subject to the terms of this license.
 
-By using this software, you acknowledge and agree to these terms, including
-that modification of any part of the software, except README.txt, is strictly forbidden.
-The program may temporarily disable itself if incorrect passwords are entered.
+3. Restrictions
+
+The User may NOT, without explicit written permission from the Author:
+
+Modify, reverse-engineer, decompile, or disassemble the Software
+
+Modify any files except:
+
+README.txt
+
+setup_gamebot.bat
+
+Redistribute, resell, sublicense, or rent the Software
+
+Remove or alter copyright, license, or ownership notices
+
+Use the Software for commercial purposes
+
+Violation of these restrictions immediately terminates this license.
+
+4. Warranty (136 Days)
+
+The Software includes a limited warranty of 136 days from the date of first installation.
+
+During the warranty period:
+
+The User may report bugs, errors, or defects to the Author
+
+The Author is not obligated to fix, update, or improve the Software
+
+No guarantee is made that reported issues will be addressed
+
+After 136 days, no warranty applies.
+
+5. Disclaimer of Warranty
+
+To the maximum extent permitted under Danish and EU law:
+
+The Software is provided “AS IS” and “AS AVAILABLE”, without warranties of any kind, including but not limited to:
+
+Fitness for a particular purpose
+
+Accuracy or reliability
+
+Compatibility with games, systems, or updates
+
+Continuous or error-free operation
+
+6. Limitation of Liability
+
+The Author shall not be liable for any damages, including but not limited to:
+
+Game bans (VAC or otherwise)
+
+Account suspension or termination
+
+Loss of data, progress, or accounts
+
+Financial loss
+
+Legal consequences arising from use of the Software
+
+Use of the Software is entirely at the User’s own risk.
+
+7. Game & Third-Party Terms
+
+The Software interacts with third-party software, including Counter-Strike 2 (CS2).
+
+The Software is not affiliated with, endorsed by, or approved by Valve
+
+The User is responsible for complying with all third-party Terms of Service
+
+The Author does not guarantee that use of the Software is permitted by any game or platform
+
+8. Termination
+
+This license terminates automatically if the User:
+
+Violates any term of this license
+
+Modifies restricted files
+
+Uses the Software unlawfully
+
+Upon termination, the User must delete all copies of the Software.
+
+9. Governing Law
+
+This license is governed by the laws of Denmark, excluding conflict-of-law principles.
+Any disputes shall be handled under Danish jurisdiction, unless mandatory EU consumer protections apply.
+
+10. Acceptance
+
+By installing, running, or using the Software, the User confirms that they:
+
+Have read this license
+
+Understand it
+
+Agree to all terms
