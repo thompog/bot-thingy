@@ -8,6 +8,11 @@ Files:
 - README.txt            : This file
 - prefix.png            : photo of what well happen hen run
 
+![⚠️ Use at Your Own Risk](https://img.shields.io/badge/⚠️-Use_at_Your_Own_Risk-red?style=flat&logo=warning)  
+
+> **Disclaimer:** Bot-Thingy is provided **“AS IS”**. Use at your own risk.  
+> See [LICENSE](./LICENSE) for full Danish + English terms.
+
 Installation Instructions:
 1. Install NSIS: https://nsis.sourceforge.io/Download
 2. Place all files in the same folder.
