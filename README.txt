@@ -5,7 +5,6 @@ Files:
 - full_checker.py       : Environment checker
 - reset.py              : Reset locked GameBot if password attempts fail
 - setup_gamebot.bat     : Setup batch script
-- LICENSE               : Custom strict BSD 3-Clause Commercial License
 - README.txt            : This file
 
 Installation Instructions:
@@ -22,8 +21,9 @@ Installation Instructions:
 
 Password System:
 - You have 3 attempts to enter the installer password.
-- If all 3 attempts fail, the program creates RESET_REQUIRED.txt.
-- You must run reset.py and enter the installer password to unlock.
+- If all 3 attempts fail, the program creates RESET_REQUIRED.txt. and will lock it self ontil reset.py is started
+
+- You must start reset.py and enter the installer password to unlock. 
 
 Folder Structure:
 C:\bot
