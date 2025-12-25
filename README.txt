@@ -6,6 +6,7 @@ Files:
 - reset.py              : Reset locked GameBot if password attempts fail
 - setup_gamebot.bat     : Setup batch script
 - README.txt            : This file
+- prefix.png            : photo of what well happen hen run
 
 Installation Instructions:
 1. Install NSIS: https://nsis.sourceforge.io/Download
